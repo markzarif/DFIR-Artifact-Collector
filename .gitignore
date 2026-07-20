@@ -1,0 +1,14 @@
+# Collection output (never commit real evidence/case data)
+IRCollection/
+*.rar
+*.sha256
+Manifest.csv
+Collection.log
+Transcript.txt
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
